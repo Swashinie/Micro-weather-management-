@@ -31,4 +31,5 @@ Frontend: HTML, CSS, JavaScript
 Backend: PHP
 Database: MySQL
 
+![Screenshot 2025-04-29 203006](https://github.com/user-attachments/assets/d94b7c14-ac79-4230-9ffd-cf9286f9588a)
 
